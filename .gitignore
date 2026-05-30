@@ -1,0 +1,26 @@
+# Credenciales — NUNCA subir a GitHub
+.env
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos generados por PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos de debug temporales
+debug_suite.txt
+debug_override.txt
+
+# Configuracion local del agente
+config.json
+
+# Entornos virtuales
+venv/
+.venv/
+
+# VS Code
+.vscode/
